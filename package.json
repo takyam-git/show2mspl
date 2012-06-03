@@ -1,0 +1,15 @@
+{
+  "name": "show2mspl",
+  "description": "An awesome real time application",
+  "version": "0.0.1",
+  "author": "Me <me@mydomain.com>",
+  "private": true,
+  "engines": { "node": ">= 0.6.0" },
+  "dependencies": {
+    "socketstream": "git://github.com/socketstream/socketstream.git#master",
+    "ss-coffee": "0.1.x",
+    "ss-stylus": "0.1.x",
+    "ss-hogan": "0.1.x",
+    "mysql": "2.0.0-alpha2"
+  }
+}
